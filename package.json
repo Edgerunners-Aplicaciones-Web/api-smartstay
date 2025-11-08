@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgerunners-Aplicaciones-Web/api-smartstay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edgerunners-Aplicaciones-Web/api-smartstay/issues"
+  },
+  "homepage": "https://github.com/Edgerunners-Aplicaciones-Web/api-smartstay#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
